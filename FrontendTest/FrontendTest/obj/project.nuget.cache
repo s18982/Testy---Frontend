@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "abgcIdlHWjqtfpGfUlWJLEAWfNRF4o8W2g9JvfWny3fgo9IJjhpqFbg0pp/yLlsqrjCDp2JzxYAbEKRzACy16Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fifi\\Desktop\\FrontendTest\\FrontendTest\\FrontendTest\\FrontendTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fifi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Fifi\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\Fifi\\.nuget\\packages\\selenium.webdriver.chromedriver\\99.0.4844.5100\\selenium.webdriver.chromedriver.99.0.4844.5100.nupkg.sha512"
+  ],
+  "logs": []
+}
